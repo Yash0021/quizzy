@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.8148fb90.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.8148fb90.js.map": "/react-gh-pages/static/js/main.8148fb90.js.map"
+    "main.js": "/quizzy/static/js/main.8148fb90.js",
+    "index.html": "/quizzy/index.html",
+    "main.8148fb90.js.map": "/quizzy/static/js/main.8148fb90.js.map"
   },
   "entrypoints": [
     "static/js/main.8148fb90.js"
